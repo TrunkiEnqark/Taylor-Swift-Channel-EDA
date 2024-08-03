@@ -16,7 +16,7 @@ Perform a comprehensive exploratory data analysis on the YouTube channel data to
 
 Create derived features such as:
 - Video age (days since publication)
-- Engagement rate: $((comments*2 + likes) / views)$
+- Engagement rate: $((comments + likes) / views)$
 - Video duration in seconds
 - Day of week and hour of day for publication time
 
