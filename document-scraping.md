@@ -17,7 +17,7 @@ This document outlines the process of scraping data from Taylor Swift's official
 2. Obtain a YouTube Data API key from the Google Developers Console.
 
 3. Set the API key and channel ID in the script:
-```pythonCopyapi_key = "YOUR_API_KEY_HERE"```
+```api_key = "YOUR_API_KEY_HERE"```
 ```channel_id = "UCqECaJ8Gagnn7YCbPEzWH6g"```
 
 
